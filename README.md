@@ -14,15 +14,6 @@ Check out the live version of the project here:
 
 *(You can click the link above to explore the full site — courses, practice tools, pricing, and more.)*
 
----
-
-## 📸 Screenshot  
-
-![EigoPro Screenshot](./Screenshot.png)  
-
-*A snapshot of the home page showcasing the clean UI, course preview, and interactive tools.*
-
----
 
 ## 🧠 What Is EigoPro  
 
