@@ -62,8 +62,5 @@ git clone https://github.com/your-username/eigopro.git
 # 2. Open the project directory
 cd eigopro
 
-# 3. Launch a local server (for example using VSCode Live Server or Python http.server)
-# Example with Python 3:
-python3 -m http.server 8000
-
-# 4. Open http://localhost:8000 in your browser
+# 2. Open index file
+open index.html in browser
