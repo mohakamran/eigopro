@@ -1,49 +1,77 @@
-🌐 EigoPro: Master English with Confidence (Designed for Japan)
+# 🎓 EigoPro — Master English with Confidence
 
-EigoPro is an ultra-modern, premium, and fully responsive English learning platform specifically tailored to the needs of Japanese learners. It focuses on communication, overcoming common Japanese-specific pronunciation and grammar challenges, and achieving career or academic goals (TOEIC, Study Abroad).
+[![Site Demo](https://mohakamran.github.io/eigopro/)](https://mohakamran.github.io/eigopro/)
 
-✨ Features
+Welcome to **EigoPro**, a premium English-learning platform designed specifically for Japanese learners. Through interactive tools, curated courses, and learner-friendly UI, EigoPro helps you overcome common challenges — from pronunciation to real-life conversation.
 
-Ultra-Premium UX/UI: Clean, minimal design with smooth animations, soft shadows, and a modern color palette (Blue/White standard).
+---
 
-Full Responsiveness: Optimized for seamless usage across all devices, from mobile (iOS/Android) to desktop.
+## 🚀 Live Demo  
 
-Bilingual Content: Key elements and value propositions are presented in both English and Japanese (日本語) for clarity.
+Check out the live version of the project here:  
+👉 **https://mohakamran.github.io/eigopro/**
 
-Interactive Learning Hub: Includes built-in JavaScript applications for active practice:
+*(You can click the link above to explore the full site — courses, practice tools, pricing, and more.)*
 
-Vocabulary Flashcards: Flip-card component for daily word memorization.
+---
 
-Daily Phrase Generator: Provides conversational English phrases and Japanese meanings.
+## 📸 Screenshot  
 
-Japan-Focused Curriculum: Sections highlight benefits directly relevant to the Japanese market (Career Growth, Study Abroad, TOEIC Prep).
+![EigoPro Screenshot](./Screenshot.png)  
 
-Teacher Profiles: Showcase diverse mentors, including bilingual teachers who understand the learning process from a Japanese perspective.
+*A snapshot of the home page showcasing the clean UI, course preview, and interactive tools.*
 
-Simple Pricing: Clear, tiered pricing structure designed for accessibility.
+---
 
-🖼️ Interface Preview
+## 🧠 What Is EigoPro  
 
-🛠️ Technology Stack
+EigoPro is a modern, interactive, and user-friendly web application targeted at Japanese speakers who want to learn English effectively. Features include:
 
-This project is built using modern front-end essentials, prioritizing speed and ease of deployment:
+- Targeted support for common Japanese-speaker English issues (e.g. pronunciation difficulties like “L vs R”)  
+- Interactive practice tools: flashcards, daily phrases, vocabulary drills, and more  
+- Curated courses from beginner to advanced (beginner grammar, business English, study-abroad prep, pronunciation lab, etc.)  
+- Clean, responsive UI and smooth UX for both desktop and mobile users  
+- Transparent pricing plans including free starter option  
 
-HTML5: Semantic structure for the entire application.
+---
 
-Tailwind CSS (CDN): Used exclusively for all styling, ensuring fast development, clean utility-first classes, and immediate responsiveness.
+## 📚 Features  
 
-JavaScript (Vanilla): Powers all interactive components (Flashcard logic, Phrase Generator, Navbar toggling, and Scroll Reveal animations).
+- ✅ Responsive, modern UI with clear typography and layout  
+- ✅ Interactive practice tools (flashcards, phrase generator, vocabulary drills)  
+- ✅ Course catalog: Beginner → Business English → Advanced / Test Prep  
+- ✅ Learner-friendly content for Japanese speakers (bilingual explanations, real-life context, etc.)  
+- ✅ Pricing plans: Free Starter, Pro, Business — covering different user needs  
+- ✅ Teacher / Mentor profiles available (for planned future features)  
+- ✅ Simple navigation: Home → Courses → Practice → Pricing → Contact  
 
-Font Awesome: Used for high-quality, recognizable icons.
+---
 
-Google Fonts: Utilizes Inter (for English text) and Noto Sans JP (for Japanese text) to ensure beautiful, consistent typography.
+## 🛠️ Tech Stack  
 
-🚀 Setup & Usage
+| Technology | Purpose |
+|------------|---------|
+| HTML / CSS | Structure & styling of the web pages |
+| JavaScript | Interactive features (flashcards, phrase generator, UI interactions) |
+| Static hosting (GitHub Pages) | Free deployment and live demo hosting |
 
-Since this is a single, self-contained HTML file using CDN links for dependencies, setup is instantaneous.
+> ⚠️ No backend / database — all data (courses, vocabulary, UI) is delivered statically for simplicity.
 
-Save the File: Save the provided code as index.html.
+---
 
-Open in Browser: Double-click index.html to open it in any modern web browser.
+## 📝 Installation & Local Development  
 
-The site is fully functional offline (except for the font and CDN asset loading on the first visit).
+If you want to run this project locally:
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/your-username/eigopro.git
+
+# 2. Open the project directory
+cd eigopro
+
+# 3. Launch a local server (for example using VSCode Live Server or Python http.server)
+# Example with Python 3:
+python3 -m http.server 8000
+
+# 4. Open http://localhost:8000 in your browser
