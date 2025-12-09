@@ -1,7 +1,8 @@
 # 🎓 EigoPro — Master English with Confidence
 
-[![Site Demo](https://mohakamran.github.io/eigopro/)](https://mohakamran.github.io/eigopro/)
-![EigoPro Screenshot](./Screenshot.png)  
+[![Live Demo](./Screenshot.png)](https://mohakamran.github.io/eigopro/)
+
+
 Welcome to **EigoPro**, a premium English-learning platform designed specifically for Japanese learners. Through interactive tools, curated courses, and learner-friendly UI, EigoPro helps you overcome common challenges — from pronunciation to real-life conversation.
 
 ---
